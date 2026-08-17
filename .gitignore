@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.txt
+passwords.txt
+secrets.txt
+
+# Evidence
+evidence/
+screenshots/
+*.pcap
+*.pcapng
+loot/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
